@@ -4,4 +4,4 @@ Hello World
 - Andrew
 - Alex
 - Adeline
-![image](wabx_web_logo.png)
+![image](wabx_web_logo.jpg)

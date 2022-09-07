@@ -4,5 +4,4 @@ Hello World
 - Andrew
 - Alex
 - Adeline
-
-**Hi Josephoneeeeeeeeeee**
+![image](wabx_web_logo.png)
